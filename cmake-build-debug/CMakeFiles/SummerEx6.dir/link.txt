@@ -1,0 +1,1 @@
+/usr/bin/c++.exe -g  -Wl,--enable-auto-import CMakeFiles/SummerEx6.dir/cpp-tests-ex6/tests.cpp.o  -o SummerEx6.exe -Wl,--out-implib,libSummerEx6.dll.a -Wl,--major-image-version,0,--minor-image-version,0 
